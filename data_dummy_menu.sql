@@ -1,0 +1,22 @@
+insert into menu_tbl(menuid, menu, price)
+values
+('MP001', 'Supreme pizza 16"', 20.6),
+('MP002', 'Super Supreme pizza 16"', 23.4),
+('MP003', 'Cheese lover pizza 16"', 16.5),
+('MP004', 'Veggie lover pizza 16"', 20.6),
+('MP005', 'Meat lover pizza 16"', 23.4),
+('MP006', 'Pepperoni lover pizza 16"', 19.1),
+('MP007', 'Hawaiian pizza 16"', 17.0),
+('MP008', 'Garlic chicken pizza 16"', 18.6),
+('MP009', 'Spanish mushroom & ham pizza 16"', 20.4),
+('MA001', 'Cream chicken soup', 18.6),
+('MA002', 'Potato bacon soup', 16.0),
+('MA003', 'Cream of mushroom soup', 16.3),
+('MA004', 'Gralic bread', 14.0),
+('MA005', 'BBQ chicken', 18.2),
+('MT001', 'Pineapple topping', 2.5),
+('MT002', 'Pepperoni topping', 2.5),
+('MT003', 'Peacon topping', 2.5),
+('MT004', 'Extra cheese', 2.5),
+('MD001', 'Drinking water', 2.0),
+('MD002', 'Soft drink soda', 3.5);
